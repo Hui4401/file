@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:12:02.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="S2_BxEBYi4vKAUii0vIn" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T12:13:28.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="S1uVV1Hliix52K6rdn5m" version="20.5.3" type="github">
   <diagram id="KQw1xRx-27sTIVIaCVil" name="第 1 页">
     <mxGraphModel dx="1468" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,64 +7,64 @@
         <mxCell id="_1Btui5-MEUtpj_ysXOn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-1" target="_1Btui5-MEUtpj_ysXOn-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;极速版&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;极速版&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-2" target="_1Btui5-MEUtpj_ysXOn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主端&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主端&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-3" target="_1Btui5-MEUtpj_ysXOn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;浏览器&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;浏览器&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_1Btui5-MEUtpj_ysXOn-4" target="_1Btui5-MEUtpj_ysXOn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;极速版网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;极速版网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_1Btui5-MEUtpj_ysXOn-6" target="_1Btui5-MEUtpj_ysXOn-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主端网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主端网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_1Btui5-MEUtpj_ysXOn-8" target="_1Btui5-MEUtpj_ysXOn-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;浏览器网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;浏览器网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-12" target="_1Btui5-MEUtpj_ysXOn-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-14" target="_1Btui5-MEUtpj_ysXOn-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_1Btui5-MEUtpj_ysXOn-16" target="_1Btui5-MEUtpj_ysXOn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;任务映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;任务处理逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Btui5-MEUtpj_ysXOn-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
@@ -79,14 +79,14 @@
             <mxPoint x="400" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;客户端&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="45" y="105" width="70" height="30" as="geometry" />
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;客户端&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;网关层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="245" y="105" width="70" height="30" as="geometry" />
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网关层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_1Btui5-MEUtpj_ysXOn-31" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;服务层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="105" width="70" height="30" as="geometry" />
+        <mxCell id="_1Btui5-MEUtpj_ysXOn-31" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="100" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
